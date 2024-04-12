@@ -119,5 +119,7 @@ int main(int argc, char* argv[]) {
 	else {
 		cout << "Reprovado";
 	}
+
+	return 0;
 }
 */
